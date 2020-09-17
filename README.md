@@ -6,6 +6,5 @@
 
 <p align="center">
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mirsella&show_icons=true&theme=gradient&count_private=true)
-&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 </p>
