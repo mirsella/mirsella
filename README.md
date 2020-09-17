@@ -6,4 +6,4 @@
 
 <img alignn="center" src="https://github-readme-stats.vercel.app/api?username=mirsella&show_icons=true&theme=radical&count_private=true" alt="mirsella's stats">
 &nbsp;
-<img alignn="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=6" alt="mirsella's stats">
+<img alignn="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=6&theme=radical" alt="mirsella's stats">
