@@ -5,7 +5,8 @@
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mirsella&show_icons=true&theme=radical&count_private=true" alt="mirsella's github stats">
+<img height="300" width="600" src="https://github-readme-stats.vercel.app/api?username=mirsella&show_icons=true&theme=radical&count_private=true" alt="mirsella's github stats">
 &nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirsella&layout=compact&langs_count=6&theme=radical" alt="mirsella's top languages">
+<img height="300" width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirsella&layout=compact&langs_count=6&theme=radical" alt="mirsella's top languages">
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 </p>
