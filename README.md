@@ -13,3 +13,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirsella&layout=compact&langs_count=10&theme=radical">
 <img align="center" src="https://komarev.com/ghpvc/?username=mirsella">
 </p>
+
+how hackers escape police ? 
+<details>
+<summary>answer</summary>
+\police
+</details>
