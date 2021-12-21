@@ -1,10 +1,10 @@
 ```
- _                            _     _ _             
-| |__   ___ _   _      __   _(_)___(_) |_ ___  _ __ 
-| '_ \ / _ \ | | |     \ \ / / / __| | __/ _ \| '__|
-| | | |  __/ |_| |  _   \ V /| \__ \ | || (_) | |   
-|_| |_|\___|\__, | ( )   \_/ |_|___/_|\__\___/|_|   
-            |___/  |/                               
+ _                       __      _                _ 
+| |__   ___ _   _       / _|_ __(_) ___ _ __   __| |
+| '_ \ / _ \ | | |     | |_| '__| |/ _ \ '_ \ / _` |
+| | | |  __/ |_| |  _  |  _| |  | |  __/ | | | (_| |
+|_| |_|\___|\__, | ( ) |_| |_|  |_|\___|_| |_|\__,_|
+            |___/  |/                                                            
 ```
 <p align="center">
 #1 on https://stripcode.dev/leaderboard :)</br>
@@ -14,7 +14,7 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=mirsella">
 </p>
 
-how hackers escape police ? 
+how do hackers escape police ? 
 <details>
 <summary>answer</summary>
 \police
