@@ -12,11 +12,11 @@ __        __   _                              ___ _                       _     
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirsella" alt="mirsella" /></a> </p>
 
-- 🔭 I’m currently working on [powercontrol](https://github.com/mirsella/powercontrol)
-
-- 🏆 leaderboard **#1 on stripcode by @benawad**
-
 - ✨ My favorite project is [powercontrol](https://github.com/mirsella/powercontrol)
+
+- 🏆 first place on [stripcode](https://github.com/benawad/stripcode) by [@benawad](https://github.com/benawad)
+
+- 🔭 My last project is [42bot](https://github.com/mirsella/42bot)
 
 - .📄 [dotfiles](https://github.com/mirsella/dotfiles)
 
@@ -29,8 +29,9 @@ __        __   _                              ___ _                       _     
     <h3 align="left">Connect with me:</h3>
     <p align="left">
     <a href="https://twitter.com/mirsella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mirsella" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/mirsella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirsella" height="30" width="40" /></a>
+    <!-- <a href="https://linkedin.com/in/mirsella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirsella" height="30" width="40" /></a> -->
     <a href="https://stackoverflow.com/users/12834073" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12834073" height="30" width="40" /></a>
+    <a href="https://www.codewars.com/users/mirsella" target="blank"><img align="center" src="https://raw.githubusercontent.com/mirsella/mirsella/master/src/codewars-svgrepo-com.svg" alt="mirsella" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/mirsella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mirsella" height="30" width="40" /></a>
     <a href="https://www.leetcode.com/mirsella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mirsella" height="30" width="40" /></a>
     <a href="https://www.hackerearth.com/@mirsella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mirsella" height="30" width="40" /></a>
