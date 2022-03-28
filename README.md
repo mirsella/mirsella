@@ -18,13 +18,13 @@ __        __   _                              ___ _                       _     
 
 - 🔭 My last project is [42bot](https://github.com/mirsella/42bot)
 
-- .📄 [dotfiles](https://github.com/mirsella/dotfiles)
+- .📄My [dotfiles](https://github.com/mirsella/dotfiles)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mirsella?tab=repositories](https://github.com/mirsella?tab=repositories)
 
 - 📫 How to reach me **mirsella@protonmail.com**
 
-- ⚡ Fun fact **using Linux on all my computers since 2019**
+- ⚡ Fun fact **I'm using Linux on all my computers since 2019**
 
     <h3 align="left">Connect with me:</h3>
     <p align="left">
