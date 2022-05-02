@@ -24,7 +24,7 @@ __        __   _                              ___ _                       _     
 
 - 📫 How to reach me **mirsella@protonmail.com**
 
-- ⚡ Fun fact **I'm using Linux on all my computers since 2019**
+- ⚡ Fun fact **I'm using Linux on all my computers**
 
     <h3 align="left">Connect with me:</h3>
     <p align="left">
