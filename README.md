@@ -20,7 +20,7 @@ __        __   _                              ___ _                       _     
 
 - .📄My [dotfiles](https://github.com/mirsella/dotfiles)
 
-- 👨‍💻 All of my projects are available at [https://github.com/mirsella?tab=repositories](https://github.com/mirsella?tab=repositories)
+- 👨‍💻 [All of my projects](https://github.com/mirsella?tab=repositories)
 
 - 📫 How to reach me **mirsella@protonmail.com**
 
