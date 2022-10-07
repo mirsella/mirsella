@@ -6,7 +6,6 @@ __        __   _                              ___ _                       _     
    \_/\_/ \___|_|\___\___/|_| |_| |_|\___( ) |___| |_| |_| |_| |_| |_| |_|_|_|  |___/\___|_|_|\__,_|
                                          |/                                                         
 ```
-<h3 align="center">A 18 years old self-taught student from Paris</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirsella&label=Profile%20views&color=c061cb&style=flat-square" alt="mirsella" /> </p>
 
