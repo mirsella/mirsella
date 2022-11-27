@@ -15,15 +15,11 @@ __        __   _                              ___ _                       _     
 
 - 🏆 first place on [stripcode](https://github.com/benawad/stripcode) by [@benawad](https://github.com/benawad)
 
-- 🔭 My last project is [42bot](https://github.com/mirsella/42bot)
+- 🔭 My last project is [42](https://github.com/mirsella/42)
 
-- .📄My [dotfiles](https://github.com/mirsella/dotfiles)
-
-- 👨‍💻 [All of my projects](https://github.com/mirsella?tab=repositories)
+- .📄 [dotfiles](https://github.com/mirsella/dotfiles)
 
 - 📫 How to reach me **mirsella@protonmail.com**
-
-- ⚡ Fun fact **I'm using Linux on all my computers**
 
     <h3 align="left">Connect with me:</h3>
     <p align="left">
