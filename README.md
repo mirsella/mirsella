@@ -1,10 +1,10 @@
 ```
-__        __   _                              ___ _                       _               _ _       
-\ \      / /__| | ___ ___  _ __ ___   ___    |_ _( )_ __ ___    _ __ ___ (_)_ __ ___  ___| | | __ _ 
- \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \    | ||/| '_ ` _ \  | '_ ` _ \| | '__/ __|/ _ \ | |/ _` |
-  \ V  V /  __/ | (_| (_) | | | | | |  __/_   | |  | | | | | | | | | | | | | |  \__ \  __/ | | (_| |
-   \_/\_/ \___|_|\___\___/|_| |_| |_|\___( ) |___| |_| |_| |_| |_| |_| |_|_|_|  |___/\___|_|_|\__,_|
-                                         |/                                                         
+__        __   _                            _ 
+\ \      / /__| | ___ ___  _ __ ___   ___  | |
+ \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \ | |
+  \ V  V /  __/ | (_| (_) | | | | | |  __/ |_|
+   \_/\_/ \___|_|\___\___/|_| |_| |_|\___| (_)
+
 ```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirsella&label=Profile%20views&color=c061cb&style=flat-square" alt="mirsella" /> </p>
@@ -15,7 +15,7 @@ __        __   _                              ___ _                       _     
 
 - 🏆 first place on [stripcode](https://github.com/benawad/stripcode) by [@benawad](https://github.com/benawad)
 
-- 🔭 My last project is [42](https://github.com/mirsella/42)
+- 🔭 My last project's are [libft](https://github.com/mirsella/libft) or in [42](https://github.com/mirsella/42)
 
 - .📄 [dotfiles](https://github.com/mirsella/dotfiles)
 
