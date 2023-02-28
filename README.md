@@ -15,7 +15,7 @@ __        __   _                            _
 
 - 🏆 first place on [stripcode](https://github.com/benawad/stripcode) by [@benawad](https://github.com/benawad)
 
-- 🔭 My last project's are [libft](https://github.com/mirsella/libft) or in [42](https://github.com/mirsella/42)
+- 🔭 My last project is [minishell](https://github.com/mirsella/minishell)
 
 - .📄 [dotfiles](https://github.com/mirsella/dotfiles)
 
