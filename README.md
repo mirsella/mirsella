@@ -15,11 +15,9 @@ __        __   _                            _
 
 - 🏆 first place on [stripcode](https://github.com/benawad/stripcode) by [@benawad](https://github.com/benawad)
 
-- 🔭 My last project is [minishell](https://github.com/mirsella/minishell)
+- 🔭 My last project is [a irc server](https://github.com/mirsella/ft_irc)
 
 - .📄 [dotfiles](https://github.com/mirsella/dotfiles)
-
-- 📫 How to reach me **mirsella@protonmail.com**
 
     <h3 align="left">Connect with me:</h3>
     <p align="left">
