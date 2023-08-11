@@ -15,7 +15,7 @@ __        __   _                            _
 
 - 🏆 first place on [stripcode](https://github.com/benawad/stripcode) by [@benawad](https://github.com/benawad)
 
-- 🔭 My last project is [a irc server](https://github.com/mirsella/ft_irc)
+- 🔭 My last project is [a online pong website]([https://github.com/mirsella/ft_irc](https://github.com/mirsella/transcendence))
 
 - .📄 [dotfiles](https://github.com/mirsella/dotfiles)
 
