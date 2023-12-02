@@ -12,7 +12,7 @@ __        __   _                            _
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirsella" alt="mirsella" /></a> </p>
 
-- 🔭 I’m currently working on **a (private) news scraper system (~600 news fetched/day), with autonomous rating tagging from chatgpt in rust. + a web client with nuxtjs.**
+- 🔭 I’m currently working on **a (private) news scraper system (~1000 news fetched/day), with autonomous rating and tag generation from chatgpt in rust. + a web client with nuxtjs.**
 
 - 🌱 I’m currently enjoying learning **rust !**
 
