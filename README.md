@@ -6,7 +6,7 @@ __        __   _                            _
    \_/\_/ \___|_|\___\___/|_| |_| |_|\___| (_)
 
 ```
-<h3 align="center">I like learning about new technologies</h3>
+<h3 align="center">I love learning about new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirsella&label=Profile%20views&color=0e75b6&style=flat" alt="mirsella" /> </p>
 
