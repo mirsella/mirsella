@@ -16,7 +16,7 @@ __        __   _                            _
 
 - 🌱 I’m currently enjoying learning **rust 🦀⚡** (it's actually so good)
 
-- ♥️ My favourite project is [powercontrol](https://github.com/mirsella/powercontrol where i can power on and off my pc from my phone !
+- ♥️ My favourite project is [powercontrol](https://github.com/mirsella/powercontrol) where i can power on and off my pc from my phone !
 
 - .📄 [dotfiles](https://github.com/mirsella/dotfiles) (zsh, nvim, i use arch btw)
 
