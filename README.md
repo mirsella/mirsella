@@ -63,6 +63,12 @@
 
 ## Stats
 
-<img src="https://komarev.com/ghpvc/?username=mirsella&label=Profile%20views&color=0e75b6&style=flat" alt="mirsella" />
-<img src="https://github-profile-trophy.vercel.app/?username=mirsella&theme=gruvbox" alt="mirsella" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirsella&langs_count=8&theme=gruvbox" alt=mirsella />
+<p align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=mirsella&label=Profile%20views&color=0e75b6&style=flat" alt="mirsella" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mirsella&theme=gruvbox&rank=-C,-B&column=2" alt="mirsella" />
+  <span>&nbsp&nbsp&nbsp</span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirsella&langs_count=8&theme=gruvbox&layout=compact&hide=roff,html" alt=mirsella />
+</p>
