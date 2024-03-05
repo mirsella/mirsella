@@ -64,11 +64,11 @@
 ## Stats
 
 <p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=mirsella&label=Profile%20views&color=0e75b6&style=flat" alt="mirsella" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=mirsella&color=32302F&style=for-the-badge" alt="profile views" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mirsella&theme=gruvbox&rank=-C,-B&column=2" alt="mirsella" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mirsella&theme=gruvbox&rank=-C,-B&column=2" alt="trophys" />
   <span>&nbsp&nbsp&nbsp</span>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirsella&langs_count=8&theme=gruvbox&layout=compact&hide=roff,html" alt=mirsella />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirsella&langs_count=8&theme=gruvbox&layout=compact&hide=roff,html" alt="most used languages" />
 </p>
