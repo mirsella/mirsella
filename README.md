@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">I love free software, learning about new technologies and Rust 🦀</h3>
 
+Currently writing, maintaining and pushing to prod rust and web projects at [Le Media Positif](https://github.com/lemediapositif)
+
 ## Languages
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
