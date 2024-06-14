@@ -62,6 +62,6 @@ Currently writing, maintaining and pushing to prod rust and web projects at [Le 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mirsella&theme=gruvbox&rank=-C,-B&column=2" alt="trophys" />
-  <span>&nbsp&nbsp&nbsp</span>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirsella&langs_count=8&theme=gruvbox&layout=compact&hide=roff,html" alt="most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mirsella&show_icons=true&theme=gruvbox" alt="stats" />
 </p>
