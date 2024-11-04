@@ -12,7 +12,7 @@ Currently writing, maintaining and pushing to prod rust and web projects at [Le 
 ![Nuxtjs](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![serveurs](https://img.shields.io/badge/Serveurs-654FF0?style=for-the-badge&logo=icloud&logoColor=white)
+![servers](https://img.shields.io/badge/Serveurs-654FF0?style=for-the-badge&logo=icloud&logoColor=white)
 
 ## Tools
 
