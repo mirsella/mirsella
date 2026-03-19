@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">I love learning new sciences & technologies, free software and Rust 🦀</h3>
 
 ## Main Expertise
