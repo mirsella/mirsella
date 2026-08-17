@@ -70,7 +70,7 @@ Contact: [github.com.germinate619@passmail.net](mailto:github.com.germinate619@p
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mirsella&theme=gruvbox&rank=-C,-B&column=2" alt="trophys" />
+  <img src="https://trophy.ryglcloud.net/?username=mirsella&theme=gruvbox&rank=-C,-B&column=2" alt="trophys" />
   <img src="https://github-readme-stats.me0wo.cc/api/top-langs/?username=mirsella&langs_count=8&theme=gruvbox&layout=compact&hide=roff,html" alt="most used languages" />
   <img src="https://github-readme-stats.me0wo.cc/api?username=mirsella&show_icons=true&theme=gruvbox&hide_rank=true&show=reviews,prs_merged" alt="stats" />
 </p>
