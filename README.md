@@ -1,5 +1,9 @@
 <h3 align="center">I love learning new sciences & technologies, free software and Rust 🦀</h3>
 
+## Contact
+
+[github.com.germinate619@passmail.net](mailto:github.com.germinate619@passmail.net)
+
 ## Main Expertise
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
