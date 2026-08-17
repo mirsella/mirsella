@@ -1,8 +1,6 @@
 <h3 align="center">I love learning new sciences & technologies, free software and Rust 🦀</h3>
 
-## Contact
-
-[github.com.germinate619@passmail.net](mailto:github.com.germinate619@passmail.net)
+Contact: [github.com.germinate619@passmail.net](mailto:github.com.germinate619@passmail.net)
 
 ## Main Expertise
 
